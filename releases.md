@@ -1,6 +1,3 @@
-theme: jekyll-theme-cayman
-title: Releases
-description: Stuff to Download
-
-
-#Release
+layout: page
+title: "Releases"
+permalink: /http://tldbear.github.io/releases/
