@@ -1,3 +1,6 @@
 layout: page
-title: "Releases"
-permalink: /http://tldbear.github.io/releases/
+title: "Downloads"
+permalink: /https://tldbear.github.io/releases/
+
+
+Release Downloads
