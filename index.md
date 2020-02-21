@@ -5,7 +5,7 @@
 ## DCS World Stuff
 
 
-[dcsBiosDebug](https://github.com/tldBear/dcsBiosDebug)
+![App Icon](https://github.com/tldBear/dcsBiosDebug/iconDebugSmall.png) [dcsBiosDebug](https://github.com/tldBear/dcsBiosDebug)
 
 
 
